@@ -1,0 +1,1 @@
+ALTER TABLE assessledge_accounts MODIFY COLUMN identifier VARCHAR(34) NOT NULL;
